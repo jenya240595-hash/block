@@ -1,0 +1,17 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(135deg, #7448c8, #ec78a7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+}
